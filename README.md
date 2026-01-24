@@ -17,12 +17,17 @@ It is designed to provide **real-time weather information** using the **OpenWeat
 - **CSS3** – Styling, layout, and responsiveness  
 - **JavaScript (ES6)** – Logic, DOM manipulation, API handling  
 - **OpenWeather API** – Real-time weather data
-
-## 👨‍💻 Author
-**Harsha L**  
-Frontend & QA Enthusiast | JavaScript | API Testing | Web Development  
-
+ 
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
    git clone https://github.com/harshhgowda26/weather-app.git
+
+2. Open the JavaScript file and add your API key:
+   const apiKey = "YOUR_API_KEY";
+
+⚠️ Note: Replace `YOUR_API_KEY` with your own OpenWeatherMap API key.
+
+## 👨‍💻 Author
+**Harsha L**  
+Frontend & QA Enthusiast | JavaScript | API Testing | Web Development 

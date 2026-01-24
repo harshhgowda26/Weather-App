@@ -16,7 +16,11 @@ It is designed to provide **real-time weather information** using the **OpenWeat
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling, layout, and responsiveness  
 - **JavaScript (ES6)** – Logic, DOM manipulation, API handling  
-- **OpenWeather API** – Real-time weather data  
+- **OpenWeather API** – Real-time weather data
+
+## 👨‍💻 Author
+**Harsha L**  
+Frontend & QA Enthusiast | JavaScript | API Testing | Web Development  
 
 ## 🚀 Getting Started
 1. Clone this repository:

@@ -25,8 +25,7 @@ It is designed to provide **real-time weather information** using the **OpenWeat
 
 2. Open the JavaScript file and add your API key:
    const apiKey = "YOUR_API_KEY";
-
-⚠️ Note: Replace `YOUR_API_KEY` with your own OpenWeatherMap API key.
+   ⚠️ Note: Replace `YOUR_API_KEY` with your own OpenWeatherMap API key.
 
 ## 👨‍💻 Author
 **Harsha L**  

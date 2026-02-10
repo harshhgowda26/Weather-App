@@ -30,11 +30,8 @@ It is designed to provide **real-time weather information** using the **OpenWeat
 
 ```js
 const API_KEY = "YOUR_API_KEY_HERE";
+```
 
-
----
-
-```md
 ## 👨‍💻 Author
 
 **Harsha L**  

@@ -29,8 +29,13 @@ It is designed to provide **real-time weather information** using the **OpenWeat
 2. Open `config.js` and add your OpenWeatherMap API key:
 
 ```js
-const apiKey = "YOUR_API_KEY_HERE";
+const API_KEY = "YOUR_API_KEY_HERE";
 
+
+---
+
+```md
 ## 👨‍💻 Author
+
 **Harsha L**  
-Frontend & QA Enthusiast | JavaScript | API Testing | Web Development 
+Frontend & QA Enthusiast | JavaScript | API Testing | Web Development

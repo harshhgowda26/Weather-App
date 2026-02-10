@@ -23,10 +23,13 @@ It is designed to provide **real-time weather information** using the **OpenWeat
    ```bash
    git clone https://github.com/harshhgowda26/weather-app.git
 
-2. Open the JavaScript file and add your API key:
-   const apiKey = "YOUR_API_KEY";
+## 🔑 API Key Setup
 
-   ⚠️ Note: Replace `YOUR_API_KEY` with your own OpenWeatherMap API key.
+1. Rename `config.example.js` to `config.js`.
+2. Open `config.js` and add your OpenWeatherMap API key:
+
+```js
+const apiKey = "YOUR_API_KEY_HERE";
 
 ## 👨‍💻 Author
 **Harsha L**  
